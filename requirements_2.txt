@@ -1,0 +1,8 @@
+pandas>=2.0
+numpy>=1.26
+scipy>=1.11
+matplotlib>=3.8
+pyarrow>=15.0
+polars>=1.0
+jupyter
+# maqi-data: MaQI platform library (S3 credentials), only available on the platform.
