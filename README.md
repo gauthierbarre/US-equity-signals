@@ -94,5 +94,4 @@ about 0.27. Even the best result (momentum, 0.35) is therefore not statistically
 - add market impact and borrow costs to the cost model.
 
 ## Authors
-
-Team **Ricardo**: Aymen, Gauthier. Hackathon 1, MaQI 2026-27.
+Gauthier Barré
