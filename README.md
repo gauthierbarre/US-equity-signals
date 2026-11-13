@@ -1,6 +1,5 @@
 # Four signals on the US top 500, net of costs
 
-**Hackathon 1 · MaQI 2026-27 · team Ricardo (Aymen, Gauthier)**
 
 We build four classic signals (mean-reversion, momentum, quality, value) on the 500 largest US
 stocks from 2011 to 2024. Each one is simulated under rules shared by every team: quintile
